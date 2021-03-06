@@ -42,8 +42,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Physics
 <ul>
-  <li>Classical Mechanics I</li>
-  <li>Classical Mehcanics II</li>
+  <li><a href="{{site.baseurl}}/Classical-mechanics-I/index">Classical Mechanics I</a></li>
+  <li><a href="{{site.baseurl}}/Classical-mechanics-II/index">Classical Mechanics II</a></li>
 </ul>
 
 Mathematics
