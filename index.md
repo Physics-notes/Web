@@ -23,6 +23,7 @@ Physics
 <ul>
   <li><a href="{{site.baseurl}}/Classical-mechanics-I/index">Classical Mechanics I</a></li>
   <li><a href="{{site.baseurl}}/Classical-mechanics-II/index">Classical Mechanics II</a></li>
+  <li><a href="{{site.baseurl}}/Electromagnetism/index">Electromagnetism</a></li>
 </ul>
 
 Mathematics
