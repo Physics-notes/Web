@@ -32,4 +32,5 @@ Mathematics
   <li><a href="{{site.baseurl}}/Mathematical-analysis/index">Mathematical Analysis</a></li>
   <li><a href="{{site.baseurl}}/Multivariable-calculus/index">Multivariable Calculus</a></li>
   <li><a href="{{site.baseurl}}/Complex-analysis/index">Complex Analysis</a></li>
+  <li><a href="{{site.baseurl}}/Statistics/index">Statistics</a></li>
 </ul>
