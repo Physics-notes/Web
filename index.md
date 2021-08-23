@@ -26,6 +26,8 @@ Physics
   <li><a href="{{site.baseurl}}/Electromagnetism/index">Electromagnetism</a></li>
 </ul>
 
+- [Classical Mechanics II - Summary](https://physics-notes.github.io/Web/Classical-mechanics-II/Summary.pdf)
+
 Mathematics
 
 <ul>
