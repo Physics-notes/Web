@@ -20,20 +20,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Physics
 
-<ul>
-  <li><a href="{{site.baseurl}}/Classical-mechanics-I/index">Classical Mechanics I</a></li>
-  <li><a href="{{site.baseurl}}/Classical-mechanics-II/index">Classical Mechanics II</a></li>
-  <li><a href="{{site.baseurl}}/Electromagnetism/index">Electromagnetism</a></li>
-</ul>
-
+- Classical Mechanics I - Summary (not available yet)
 - [Classical Mechanics II - Summary](https://physics-notes.github.io/Web/Classical-mechanics-II/Summary.pdf)
+- [Electromagnetism  - Summary](https://physics-notes.github.io/Web/Electromagnetism/Summary.pdf)
 
 Mathematics
 
-<ul>
-  <li><a href="{{site.baseurl}}/Mathematical-analysis/index">Mathematical Analysis</a></li>
-  <li><a href="{{site.baseurl}}/Multivariable-calculus/index">Multivariable Calculus</a></li>
-  <li><a href="{{site.baseurl}}/Differential-equations/index">Differential Equations</a></li>
-  <li><a href="{{site.baseurl}}/Complex-analysis/index">Complex Analysis</a></li>
-  <li><a href="{{site.baseurl}}/Statistics/index">Statistics</a></li>
-</ul>
+- Mathematical Analysis - Summary (not available yet)
+- [Multivariable Calculus - Summary](https://physics-notes.github.io/Web/Multivariable-calculus/Summary.pdf)
+- [Differential Equations - Summary](https://physics-notes.github.io/Web/Differential-equations/Summary.pdf)
+- [Complex Analysis - Summary](https://physics-notes.github.io/Web/Complex-analysis/Summary.pdf)
+- [Statistics - Summary](https://physics-notes.github.io/Web/Statistics/Summary.pdf)
