@@ -35,7 +35,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Quantum Physics I - Summary](https://physics-notes.github.io/Web/Quantum-physics-I/Summary.pdf)
 - Quantum Physics II - Summary (not available yet)
 - Advanced Mathematical Methods - Summary (not available yet)
-- Optics - Summary (not available yet)
+- [Optics - Summary](https://physics-notes.github.io/Web/Optics/Summary.pdf)
 - [Thermodynamics and Statistical Mechanics - Summary](https://physics-notes.github.io/Web/Thermodynamics-and-statistical-mechanics/Summary.pdf)
 - Introduction to Materials Science - Summary (not available yet)
 - Introduction to Photonics - Summary (not available yet)
