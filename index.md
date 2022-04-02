@@ -52,7 +52,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 2nd year
 - Mathematical Analysis - Summary (not available yet)
 - [Multivariable Calculus - Summary](https://physics-notes.github.io/Web/Multivariable-calculus/Summary.pdf)
-- Algebraic Structures - Summary (not available yet)
+- [Algebraic Structures - Summary](https://physics-notes.github.io/Web/Algebraic-structures/Summary.pdf)
 - Linear Geometry - Summary (not available yet)
 - Discrete Mathematics Seminar - Summary (not available yet)
 
